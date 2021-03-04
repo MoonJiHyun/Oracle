@@ -1,5 +1,4 @@
 # Oracle
-[1.Table](#(1)-table)
 
 #### (1) Table
 
