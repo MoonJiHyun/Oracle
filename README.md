@@ -312,8 +312,6 @@ DROP VIEW emp_view;
 
 
 
-- NOT NULL, ,  (), , , 
-
 ```sql
 ALTER TABLE dept MODIFY deptno number(2) PRIMARY KEY;
 ```
