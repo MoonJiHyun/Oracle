@@ -638,14 +638,13 @@ Physical Database : data files, control files, redo log files
 Logical Database : Data blocks, Extents, Segments, Tablespaces
 
 Logical Storage.       | Physical Storage 
-
 	Schema > Database
 
-​		Tablespace <     DataFile	———filesystems, ASM, NFS, RAW
+​		Tablespace <     DataFile  ——— filesystems, ASM, NFS, RAW
 
-​		Segments	   |		|
+​		Segments	   |	|
 
-​		Extent———----------|		|
+​		Extent———----------|	|
 
 ​		Oracle Data Block—Disk block
 
