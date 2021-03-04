@@ -639,13 +639,13 @@ Logical Database : Data blocks, Extents, Segments, Tablespaces
 
 Logical Storage.       | Physical Storage 
 
-Schema > Database
+	Schema > Database
 
 ​		Tablespace <     DataFile	———filesystems, ASM, NFS, RAW
 
 ​		Segments	   |		|
 
-​		Extent———---|		|
+​		Extent———----------|		|
 
 ​		Oracle Data Block—Disk block
 
