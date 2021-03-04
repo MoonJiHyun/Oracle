@@ -637,7 +637,7 @@ Physical Database : data files, control files, redo log files
 
 Logical Database : Data blocks, Extents, Segments, Tablespaces
 
-Logical Storage.       | Physical Storage 
+	Logical Storage         | Physical Storage 
 		
 	
 	Schema > Database
